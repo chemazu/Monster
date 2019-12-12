@@ -2,7 +2,7 @@
   "name": "udemy",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https//chemazu.github.io/Monster" , 
+  "homepage": " https://chemazu.github.io/Monster" , 
   "dependencies": {
     "gh": "^2.8.3",
     "gh-pages": "^2.1.1",
