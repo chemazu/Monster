@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https//chemazu.github.io/Monster/static/css/main.d7858bdb.chunk.css",
+    "main.js": "https//chemazu.github.io/Monster/static/js/main.c0aa5a7c.chunk.js",
+    "main.js.map": "https//chemazu.github.io/Monster/static/js/main.c0aa5a7c.chunk.js.map",
+    "runtime-main.js": "https//chemazu.github.io/Monster/static/js/runtime-main.f4ec44db.js",
+    "runtime-main.js.map": "https//chemazu.github.io/Monster/static/js/runtime-main.f4ec44db.js.map",
+    "static/js/2.ff8926b3.chunk.js": "https//chemazu.github.io/Monster/static/js/2.ff8926b3.chunk.js",
+    "static/js/2.ff8926b3.chunk.js.map": "https//chemazu.github.io/Monster/static/js/2.ff8926b3.chunk.js.map",
+    "index.html": "https//chemazu.github.io/Monster/index.html",
+    "precache-manifest.145bd1c5aed59f20c0b4e26d95878eb5.js": "https//chemazu.github.io/Monster/precache-manifest.145bd1c5aed59f20c0b4e26d95878eb5.js",
+    "service-worker.js": "https//chemazu.github.io/Monster/service-worker.js",
+    "static/css/main.d7858bdb.chunk.css.map": "https//chemazu.github.io/Monster/static/css/main.d7858bdb.chunk.css.map",
+    "static/js/2.ff8926b3.chunk.js.LICENSE": "https//chemazu.github.io/Monster/static/js/2.ff8926b3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ec44db.js",
+    "static/js/2.ff8926b3.chunk.js",
+    "static/css/main.d7858bdb.chunk.css",
+    "static/js/main.c0aa5a7c.chunk.js"
+  ]
+}
